@@ -23,7 +23,8 @@ public class ArticuloJuego extends JFrame{
 	
 	}
 	private void Crear(){
-		atri1 = new JLabel ("Codigo");
+		//atri1 = new JLabel ("Codigo");
+		atri1 = new JLabel ("Hola");
 		atri2 = new JLabel ("Nombre");
 		atri3 = new JLabel ("Categoria");
 		atri4 = new JLabel ("Precio");
